@@ -3,3 +3,4 @@ i want this to go into "commit 2".
 
 
 changes changes  done.
+new chnaged.
